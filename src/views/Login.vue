@@ -31,7 +31,7 @@
             <div id="register" class="ml-2" style="font-size: 12px; text-align: left;">
               <p>
                 belum punya akun? 
-                  <b-link href="#">
+                  <b-link href="/register">
                     klik disini
                   </b-link>
                 </p>
@@ -82,7 +82,6 @@
 #loginbox {
   margin-left: 30%;
   width: 40%;
-  height: auto;
   padding: 6%;
   height: auto;
   background-color: #6c89d985;
